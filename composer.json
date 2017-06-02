@@ -1,0 +1,20 @@
+{
+  "name" : "mvedie/GritterBuilder",
+  "type" : "library",
+  "description" : "A simple package to generate option for GritterJs.",
+  "keywords" : [],
+  "authors" : [
+	{
+	  "name" : "Mathieu Vedie",
+	  "email" : "m.vedie@dreamcentury.com"
+	}
+  ],
+  "minimum-stability" : "dev",
+  "require" : {
+  },
+  "autoload" : {
+	"psr-4" : {
+	  "JBoesch\\Gritter\\" : "src"
+	}
+  }
+}
