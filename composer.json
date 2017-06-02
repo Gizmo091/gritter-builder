@@ -1,5 +1,5 @@
 {
-  "name" : "mvedie/GritterBuilder",
+  "name" : "mvedie/gritter-builder",
   "type" : "library",
   "description" : "A simple package to generate option for GritterJs.",
   "keywords" : [],
